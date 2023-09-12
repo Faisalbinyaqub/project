@@ -1,6 +1,6 @@
 # ISLAMIC QUIZ
-    #### Video Demo:  <https://youtu.be/GxD9ktIF9O0>
-    # Description:
+#### Video Demo:  <https://youtu.be/GxD9ktIF9O0>
+#### Description:
 Islamic Quiz is a simple everyday program that will help you to get rid of boredom and gain some Islamic knowledge while playing. Although there is no substitute for acquiring Islamic knowledge by going to scholars and reading books; however, we hope that this app will spark an interest in learning more about islam.
 This question-and-answer program is an entertaining cerebrum program for youngsters and grown-ups who put stock in Islam.
 
