@@ -168,7 +168,7 @@ def restart_or_exit():
                 list_subjects()
                 break
             elif re == "exit":
-                sys.exit("Hope you enjoyed the quiz. See you again soon!")
+                sys.exit("Hope you enjoyed the quiz. See you again soon. Ma'a salama! M")
             else:
                 raise ValueError
         except ValueError:
