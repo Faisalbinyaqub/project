@@ -44,7 +44,7 @@ def main():
 def intro():
     # Prints introduction and instructions for the quiz
     print("\n                   **********************"
-          "\n                   ISLAMIC KNOWLEDGE QUIZ  "
+          "\n                      ISLAMI QUIZ GAME "
           "\n                   ********************** \n"
           "\nAs-salāmu ʿalaykum, This is an Islamic quiz program that"
           "\nwill help you test your knowledge about Quran, Seerah, Fiqh "
