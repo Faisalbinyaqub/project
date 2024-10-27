@@ -1,17 +1,51 @@
-# ISLAMIC QUIZ
-#### Video Demo:  <https://youtu.be/GxD9ktIF9O0>
-#### Description:
-    
-Islamic Quiz is a simple everyday program that will help you to get rid of boredom and gain some Islamic knowledge while playing. Although there is no substitute for acquiring Islamic knowledge by going to scholars and reading books; however, we hope that this app will spark an interest in learning more about islam.
-This question-and-answer program is an entertaining cerebrum program for youngsters and grown-ups who put stock in Islam.
+# CS50p Final Project: Islamic Knowledge Quiz
 
-When the program is ran, it first displays an overview of the program, and the rules of the quiz. It also displays an option for a user to start the quiz or exit from the program after reading the program overview and rules. An "exit" input will close or end the program but a "start" input will take the user to the next level where the user will have select from a list of subject that he/she wants to be quizzed on. The subjects available are Seerah, Quran, Fiqh and General knowledge.
+A quiz application designed to test knowledge across various Islamic studies topics, including Seerah, Quran, Fiqh, and General Islamic knowledge. Built as the final project for the CS50p online course, this quiz offers an interactive way for users to engage with educational content while enhancing their understanding of key Islamic concepts.
 
-All the questions are multiple choice questions.You have only three(3) attempts to answer a question correctly. If a Question is answered correctly on the first attempt, you earn +3 points, on a second attempt you have +2 points and on the third and last attempt you have only +1 point. 
+## Features
 
-After going through the quiz, the program will display a summary result. This result shows the score earned out of the total score, the total number of questions answered and then based of the total score earned determines whether the user has passed or failed the quiz. The pass percentage is 70%. After result, user can choose to restart the quiz or exit from the program.
+- **Topic Selection**: Choose from multiple topics—Seerah, Quran, Fiqh, or General Islamic knowledge.
+- **Question Bank**: Questions are sourced from a pre-defined question bank, offering a mix of topics for varied learning.
+- **Interactive Quiz**: Users can start or exit the quiz, and receive feedback on their answers as they progress.
+- **Score Tracking**: Keeps track of the user's score throughout the quiz session.
 
-If there are any other inquiries, remarks, or worries regarding this final, please let me know.
+## File Structure
+
+- **`project.py`**: Main script handling the quiz flow, user interaction, and score calculation.
+- **`question_bank.py`**: Stores all quiz questions and answers, organized by topic for easy access.
+
+## Installation
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Faisalqob/cs50p-final-project-quiz.git
+   cd cs50p-final-project-quiz
+   ```
+
+2. **Requirements**:
+   - Python 3.x installed on your system.
+   - (Optional) Virtual environment for package management.
+
+3. **Run the Program**:
+   Run the main `project.py` file to start the quiz:
+   ```bash
+   python project.py
+   ```
+
+## Usage
+
+1. **Introduction**: Start by reading the program’s introductory message, outlining the quiz’s purpose and rules.
+2. **Starting the Quiz**: Type `START` to begin or `EXIT` to quit the application.
+3. **Answering Questions**: Follow the on-screen prompts to answer each question, and the program will provide feedback and update your score.
+
+## Contributing
+
+If you would like to contribute:
+1. Fork the repository.
+2. Create a new branch for your feature (`git checkout -b feature-name`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-name`).
+5. Create a pull request.
 
 This is CS50P!
 
