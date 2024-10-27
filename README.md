@@ -1,4 +1,4 @@
-# CS50p Final Project: Islamic Knowledge Quiz
+# Islamic Quiz Game
 
 A quiz application designed to test knowledge across various Islamic studies topics, including Seerah, Quran, Fiqh, and General Islamic knowledge. Built as the final project for the CS50p online course, this quiz offers an interactive way for users to engage with educational content while enhancing their understanding of key Islamic concepts.
 
@@ -11,15 +11,15 @@ A quiz application designed to test knowledge across various Islamic studies top
 
 ## File Structure
 
-- **`project.py`**: Main script handling the quiz flow, user interaction, and score calculation.
+- **`islamic_quiz_game.py`**: Main script handling the quiz flow, user interaction, and score calculation.
 - **`question_bank.py`**: Stores all quiz questions and answers, organized by topic for easy access.
 
 ## Installation
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Faisalqob/cs50p-final-project-quiz.git
-   cd cs50p-final-project-quiz
+   git clone https://github.com/Faisalqob/islamic-quiz-game.git
+   cd islamic-quiz-game
    ```
 
 2. **Requirements**:
@@ -27,9 +27,9 @@ A quiz application designed to test knowledge across various Islamic studies top
    - (Optional) Virtual environment for package management.
 
 3. **Run the Program**:
-   Run the main `project.py` file to start the quiz:
+   Run the main `islamic_quiz_game.py` file to start the quiz:
    ```bash
-   python project.py
+   python islamic_quiz_game.py
    ```
 
 ## Usage
