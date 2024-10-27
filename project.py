@@ -2,7 +2,6 @@ import sys
 import random
 from question_bank import seerah_questions, quran_questions, fiqh_questions, general_questions
 
-
 def main():
     # Display the purpose of the program and the rules
     intro()
@@ -42,7 +41,7 @@ def main():
 
 def intro():
     print("\n                   ********************"
-          "\n                       ISLAMIC QUIZ  "
+          "\n                   ISLAMIC KNOWLEGE QUIZ  "
           "\n                   ******************** \n"
           "\nAs-salāmu ʿalaykum, This is an islamic quiz program that"
           "\nwill help you test your knowledge about Quran, Seerah, Fiqh "
